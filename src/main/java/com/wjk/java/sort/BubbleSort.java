@@ -3,7 +3,7 @@ package com.wjk.java.sort;
 /**
  * 冒泡排序
  * @author h
- *
+ *  https://www.cnblogs.com/ysocean/category/1120217.html
  */
 public class BubbleSort {
 	public static int[] sort(int[] array){
